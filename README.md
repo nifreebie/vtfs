@@ -8,6 +8,8 @@ Repository for the ITMO CSE OS course.
 
 - [БЛР2: Page Cache](./lab/vtpc/README.md)
 
+- [БЛР3: Модуль Linux](./lab/vtkm/README.md)
+
 - [ПЛР1: Введение в Xv6](https://github.com/secs-dev/xv6-riscv/blob/main/doc/lab/1.md)
 
 - [ПЛР2: Аллокатор](https://github.com/secs-dev/xv6-riscv/blob/main/doc/lab/2.md)
